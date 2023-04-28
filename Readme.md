@@ -49,7 +49,3 @@ Now we are finished! After running this step we will execute the queries. In con
 ---
 
 At the moment, we can find the rest of the complementary material at [this webpage](http://compact-leapfrog.tk/). Note that we will find instructions to run the code there, and although the instructions are different from the ones in this repository, they should work too.
-
-
-
-a
